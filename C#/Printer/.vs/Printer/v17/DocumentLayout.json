@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|c:\\users\\westinghouse\\desktop\\project1\\c#\\printer\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol2yazicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol2yazicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol2yazicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol2yazicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:varsayilanyazici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:varsayilanyazici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|c:\\users\\westinghouse\\desktop\\project1\\c#\\printer\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol4indirilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol4indirilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol1profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol1profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol5hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol5hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\configreader\\urlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:configreader\\urlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|c:\\users\\westinghouse\\desktop\\project1\\c#\\printer\\usercontrol3faturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol3faturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol3faturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol3faturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol5hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol5hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol1profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol1profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:hesapduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\usercontrol4indirilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:usercontrol4indirilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\printcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:printcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\main2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:hesapduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\main1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E437C-9297-4205-BDF9-58A533EE2992}|Printer.csproj|solutionrelative:main1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:40:06.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main1.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.cs",
+              "RelativeDocumentMoniker": "Main1.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.cs",
+              "RelativeToolTip": "Main1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:18:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.cs",
+              "RelativeDocumentMoniker": "Main1.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Main1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:18:03.305Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControl1Profil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl1Profil.cs",
+              "RelativeDocumentMoniker": "UserControl1Profil.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl1Profil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControl1Profil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:26:40.071Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl4indirilenler.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl4indirilenler.cs",
+              "RelativeDocumentMoniker": "UserControl4indirilenler.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl4indirilenler.cs",
+              "RelativeToolTip": "UserControl4indirilenler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:50:35.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserControl4indirilenler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl4indirilenler.cs",
+              "RelativeDocumentMoniker": "UserControl4indirilenler.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl4indirilenler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControl4indirilenler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:48:15.88Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "varsayilanyazici.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs",
+              "RelativeDocumentMoniker": "varsayilanyazici.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs [Tasar\u0131m]",
+              "RelativeToolTip": "varsayilanyazici.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:31:22.434Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserControl5Hakkinda.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl5Hakkinda.cs",
+              "RelativeDocumentMoniker": "UserControl5Hakkinda.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl5Hakkinda.cs",
+              "RelativeToolTip": "UserControl5Hakkinda.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:00:59.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControl5Hakkinda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl5Hakkinda.cs",
+              "RelativeDocumentMoniker": "UserControl5Hakkinda.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl5Hakkinda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControl5Hakkinda.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:58:19.431Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrlReader.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\ConfigReader\\UrlReader.cs",
+              "RelativeDocumentMoniker": "ConfigReader\\UrlReader.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\ConfigReader\\UrlReader.cs",
+              "RelativeToolTip": "ConfigReader\\UrlReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:46:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControl3Faturalar.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl3Faturalar.cs",
+              "RelativeDocumentMoniker": "UserControl3Faturalar.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl3Faturalar.cs",
+              "RelativeToolTip": "UserControl3Faturalar.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAmwP4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:37:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControl3Faturalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl3Faturalar.cs",
+              "RelativeDocumentMoniker": "UserControl3Faturalar.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl3Faturalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControl3Faturalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:35:30.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrintControl.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\PrintControl.cs",
+              "RelativeDocumentMoniker": "PrintControl.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\PrintControl.cs",
+              "RelativeToolTip": "PrintControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:44:40.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "varsayilanyazici.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs",
+              "RelativeDocumentMoniker": "varsayilanyazici.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\varsayilanyazici.cs",
+              "RelativeToolTip": "varsayilanyazici.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAYwG0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:31:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl2Yazicilar.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl2Yazicilar.cs",
+              "RelativeDocumentMoniker": "UserControl2Yazicilar.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl2Yazicilar.cs",
+              "RelativeToolTip": "UserControl2Yazicilar.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwJIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:44:41.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl2Yazicilar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl2Yazicilar.cs",
+              "RelativeDocumentMoniker": "UserControl2Yazicilar.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl2Yazicilar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UserControl2Yazicilar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:44:38.991Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:38:48.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Main2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.Designer.cs",
+              "RelativeDocumentMoniker": "Main2.Designer.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.Designer.cs",
+              "RelativeToolTip": "Main2.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAD4v3kAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:29:30.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:33:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Register.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Register.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:33:28.999Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "hesapduzenle.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs",
+              "RelativeDocumentMoniker": "hesapduzenle.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs",
+              "RelativeToolTip": "hesapduzenle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:23:03.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "hesapduzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs",
+              "RelativeDocumentMoniker": "hesapduzenle.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\hesapduzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hesapduzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:08:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:40:05.064Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControl1Profil.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl1Profil.cs",
+              "RelativeDocumentMoniker": "UserControl1Profil.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\UserControl1Profil.cs",
+              "RelativeToolTip": "UserControl1Profil.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAF4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:38:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main2.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.cs",
+              "RelativeDocumentMoniker": "Main2.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.cs",
+              "RelativeToolTip": "Main2.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAkwKYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:09:19.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.cs",
+              "RelativeDocumentMoniker": "Main2.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Main2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:33:59.212Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Main1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.Designer.cs",
+              "RelativeDocumentMoniker": "Main1.Designer.cs",
+              "ToolTip": "C:\\Users\\westinghouse\\Desktop\\Project1\\C#\\Printer\\Main1.Designer.cs",
+              "RelativeToolTip": "Main1.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAWwGQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:50:52.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
